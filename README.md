@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rajann44
-- 👀 I’m interested in ... selenium java automation wordpress html css
-- 🌱 I’m currently learning ... ruby
+- 👀 I’m interested in ... selenium java ruby automation rest_api wordpress html css
 - 💞️ I’m looking to collaborate on ... any project
 - 📫 How to reach me ... rajann44[at]gmail[dot]com
 
