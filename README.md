@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Rajan
 
-- 🇮🇳 I live in India, but have been working remotely for multiple startup
+- 🇮🇳 I live in India, but have been working remotely for multiple startups
 - 👀 I’m interested in ... selenium java ruby automation appium rest_api wordpress html css
 - 🤖 Most of the time I'm writing on Java, sometimes Javascript
 - 📱 I love test and automating web & mobile apps and everything around them
