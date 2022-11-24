@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Rajan
 
 - 🇮🇳 I live in India, but have been working remotely for multiple startups
-- 👀 I’m interested in ... selenium java ruby automation appium rest_api wordpress html css
+- 👀 I’m interested in selenium java ruby automation appium rest_api wordpress html css
 - 🤖 Most of the time I'm writing on Java, sometimes Javascript
 - 📱 I love test and automating web & mobile apps and everything around them
-- 📫 Reach me @ ... rajann44[at]gmail[dot]com
+- 📫 Reach me @ rajann44[at]gmail[dot]com
 
 #### My CV: [rajan_cv.pdf](https://github.com/rajann44)
 
