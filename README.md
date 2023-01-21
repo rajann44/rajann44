@@ -2,7 +2,7 @@
 
 - 🇩🇪 I live in Germany, but have been working remotely for multiple startups
 - 👀 I’m interested in selenium java ruby automation appium rest_api wordpress html css
-- 🤖 Most of the time I'm writing on Java, sometimes Javascript
+- 🤖 Most of the time I'm writing on Javascript, Typescript and Java.
 - 📱 I love testing and automating web & mobile apps and everything around them
 - 📫 Reach me @ rajann44[at]gmail[dot]com
 
