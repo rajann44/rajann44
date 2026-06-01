@@ -13,7 +13,7 @@
         </a>
         <p>
           <a href="https://github.com/rajann44/ecommerce-react" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
+            <img src="[https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExems1OHVsOGc1NzRzZ2M2NXhqNXc1eGFtcDJ6cm1xdDU0Z3AydDk4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ll1ja37fH7eldHnErq/giphy.gif)">
           </a>
         </p>
         <p><strong>React Ecom</strong> Shopping Experience <strong>Redefined</strong> 🛒 A modern React e-commerce platform with Redux, and responsive UI, built for scalability and seamless shopping experiences 🚀⚛️</p>
