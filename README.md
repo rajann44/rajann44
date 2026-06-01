@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="300" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9jbDU4ZTNvYTBmeWJmbTg5NTU3eHR5enNvbXlrNmp4NTl0bWlqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k9BASk41i2NazAfIK/giphy.gif" alt="My Awesome GIF" width="400"/>
