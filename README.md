@@ -1,1 +1,1 @@
-<img src="[https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExems1OHVsOGc1NzRzZ2M2NXhqNXc1eGFtcDJ6cm1xdDU0Z3AydDk4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ll1ja37fH7eldHnErq/giphy.gif)" height="40" />
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="300" />
